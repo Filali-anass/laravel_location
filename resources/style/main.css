@@ -1,0 +1,22 @@
+.mynav{
+    position: fixed;
+    background-color: #ddd;
+    width:100%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.inspiring{
+    height: 200px;
+    background-image: url(http://localhost/location/resources/img/inspiring.jpg);
+    margin-bottom: 20px;
+}
+.inspiring h1 {
+    position: absolute;
+    margin-top: 150px;
+    left: 48px;
+    color: #fff;
+}
+.mycontent{
+    margin-left: 100px;
+    margin-right:100px;
+}
