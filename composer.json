@@ -31,8 +31,7 @@
         ]
     },
     "scripts": {
-        
-            "php artisan key:generate" 
+       
         
     },
     "config": {
