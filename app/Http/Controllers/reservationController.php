@@ -11,7 +11,7 @@ use Auth;
 use DateTime;
 use Illuminate\Support\Facades\Input;
 
-class ReservationController extends Controller
+class reservationController extends Controller
 {
     public function __construct()
     {
