@@ -35,7 +35,7 @@ Route::resource('admincl','adminClientController');
 
 Route::resource('res','reservationController');
 
-/*
+
 Route::group(['prefix' => 'not'], function() {
 
     Route::get('admin',function(){
@@ -46,5 +46,5 @@ Route::group(['prefix' => 'not'], function() {
     });
 
 });
-*/
+
 Route::auth();
